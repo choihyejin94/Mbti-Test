@@ -53,7 +53,7 @@
 
 
 ---
-### [🔍배포용링크](mbti-test-eight.vercel.app)
+### [🔍배포용링크]([mbti-test-eight.vercel.app](https://mbti-test-mb2byiggu-choihyejins-projects.vercel.app))
 <img width="500" alt="스크린샷 2024-11-28 오전 11 56 50" src="https://github.com/user-attachments/assets/d8b6ba35-5eb5-42c5-9e65-e5ebabc5c897">
 <img width="500" alt="스크린샷 2024-11-28 오전 11 57 15" src="https://github.com/user-attachments/assets/6c99975b-5042-49c6-bb66-e5ad7875aa7d">
 <img width="500" alt="스크린샷 2024-11-28 오전 11 57 06" src="https://github.com/user-attachments/assets/be42eca6-a788-48b0-a6a1-4b8d39ece0c8">
