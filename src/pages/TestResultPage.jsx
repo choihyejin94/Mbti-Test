@@ -3,7 +3,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import { createTestResult } from '../api/testResults';
 import Header from '../components/Header';
 import { MbtiWrapper, Wrapper } from '../styles/TestResultStyle';
-import CalculateMbti from '../utils/CalculateMBTI';
+import CalculateMbti from '../utils/CalculateMbti';
 import { mbtiDescriptions} from "../utils/MbtiCalculator"
 
 const TestResultPage = () => {
